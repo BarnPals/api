@@ -1,0 +1,11 @@
+# Generated Files
+node_modules
+dist
+build
+
+# Private Files
+.vscode
+.env*
+
+# Application Code
+src/env/dev.js
