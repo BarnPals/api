@@ -34,7 +34,7 @@
     "express": "^4.16.4",
     "helmet": "^3.22.0",
     "lodash": "^4.17.10",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongodb": "^3.5.5"
   },
   "devDependencies": {
